@@ -1,6 +1,6 @@
-![Statistics](https://github-readme-stats.anuraghazra1.vercel.app/api?username=edwolt&show_icons=true&include_all_commits=true&hide_rank=true&theme=onedark)
+![Statistics](https://github-readme-stats.anuraghazra1.vercel.app/api?username=edwolt&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=dark)
 
-![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edwolt&layout=compact&theme=onedark)
+![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edwolt&layout=compact&hide_border=true&theme=dark)
 
 
 
