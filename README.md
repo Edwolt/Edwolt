@@ -1,6 +1,8 @@
-### Hi there 👋
+!(Most Used Languages)[https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edwolt&layout=compact]
 
 <!--
+### Hi there 👋
+
 **Edwolt/Edwolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
