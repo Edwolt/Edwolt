@@ -1,7 +1,14 @@
 
-![statistics](https://github-readme-stats.anuraghazra1.vercel.app/api?username=edwolt&show_icons=true&include_all_commits=true&hide_rank=true)
+<img alt="Statistics" align="center" 
+src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=edwolt&show_icons=true&include_all_commits=true&hide_rank=true"
+/>
 
-![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edwolt&layout=compact)
+<img alt="Most Used Languages" align="center" 
+src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edwolt&layout=compact"
+/>
+
+
+
 <!--
 ### Hi there 👋
 
