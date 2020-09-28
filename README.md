@@ -1,4 +1,4 @@
-!(Most Used Languages)[https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edwolt&layout=compact]
+![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edwolt&layout=compact)
 
 <!--
 ### Hi there 👋
