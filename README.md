@@ -2,6 +2,8 @@
 
 ![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edwolt&layout=compact&hide_border=true&theme=dark)
 
+![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edwolt&hide_border=true&theme=dark)
+
 
 
 <!--
