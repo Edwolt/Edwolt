@@ -3,6 +3,10 @@
 - [Jogo de Tabuleiro 2](https://github.com/Edwolt/Jogo-de-Tabuleiro-2)
 - [RPG](https://github.com/Edwolt/RPG)
 
+# Gists
+- [Obscure Hello World!](https://gist.github.com/Edwolt/7b74c332715207c876628dd9a5e6e997)
+- [X1B](https://gist.github.com/Edwolt/95d32eb40e79f4f73a6a4a102753292a): Terminal Color
+
 # Para Game Jaaj
 - [Boucing Ball](https://github.com/Edwolt/BoucingBall)
 - [Jogo da Arminha](https://github.com/Edwolt/JogoDaArminha)
