@@ -39,3 +39,5 @@
 
 - Base de Dados
     - [Plataforma de Agregação de Cursos](https://github.com/WictorDalbosco/TrabalhoBD)
+
+- Visualização Computacional
