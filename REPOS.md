@@ -41,3 +41,4 @@
     - [Plataforma de Agregação de Cursos](https://github.com/WictorDalbosco/TrabalhoBD)
 
 - Visualização Computacional
+    - [Nobel Visualization](https://github.com/NathanTBP/nobeldatavisualization)
