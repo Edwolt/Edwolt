@@ -1,8 +1,11 @@
 # Antigos
 - [Jogo de Tabuleiro](https://github.com/Edwolt/Jogo-de-Tabuleiro)
-![Lines of code](https://img.shields.io/tokei/lines/github/edwolt/123?style=flat-square)
+  ![Lines of code](https://img.shields.io/tokei/lines/github/Edwolt/Jogo-de-Tabuleiro?style=flat-square)
 - [Jogo de Tabuleiro 2](https://github.com/Edwolt/Jogo-de-Tabuleiro-2)
+  ![Lines of code](https://img.shields.io/tokei/lines/github/Edwolt/Jogo-de-Tabuleiro-2?style=flat-square)
 - [RPG](https://github.com/Edwolt/RPG)
+  ![Lines of code](https://img.shields.io/tokei/lines/github/Edwolt/RPG?style=flat-square)
+<!-- Truco -->
 
 # Gists
 - [Obscure Hello World!](https://gist.github.com/Edwolt/7b74c332715207c876628dd9a5e6e997)
