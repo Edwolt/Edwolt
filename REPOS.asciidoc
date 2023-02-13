@@ -33,7 +33,7 @@
 == Estudos
 * {gitlab}/Estudos[Estudos]
   image:{badge-gitlab}/Estudos?{badge-style}[Lines of Code]
-* {github}TinyRenderer[Tiny Renderer]
+* {github}/TinyRenderer[Tiny Renderer]
   image:{badge}/TinyRenderer?{badge-style}[Lines of Code]
 
 == Ciências da Computação
@@ -52,15 +52,19 @@
    image:{badge}/PICMC-Simul?{badge-style}[Lines of Code]
 ** {github}/Processador-MASM[Processador MASM (My Assembly)]
    image:{badge}/Processador-MASM?{badge-style}[Lines of Code]
+
 * Organização de Arquivos
-** {github}OrganizacaoDeArquivos-Trabalho[Trabalho de Organização de Arquivos]
+** {github}/OrganizacaoDeArquivos-Trabalho[Trabalho de Organização de Arquivos]
+   image:{badge}/OrganizacaoDeArquivos-Trabalho?{badge-style}[Lines of Code]
+
 * Desenvolvimento Web
-** {github}Petshop-Mockup[Petshop - Mockup]
+** {github}/Petshop-Mockup[Petshop - Mockup]
    image:{badge}/Petshop-Mockup{badge-style}[Lines of Code]
 ** {github-root}/FulecoRafa/petshop-front[Petshop - Frontend]
    image:{badge-root}/github/FulecoRafa/petshop-front[Lines of Code]
 ** {github-root}/FulecoRafa/petshop-back[Petshop - Back]
    image:{badge-root}/github/FulecoRafa/petshop-back[Lines of Code]
+
 * Programação Orientada à Objetos
 ** {github-root}/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final[Projeto Final]
    image:{badge-root}/github/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final[Lines of Code]
