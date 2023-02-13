@@ -59,24 +59,24 @@
 
 * Desenvolvimento Web
 ** {github}/Petshop-Mockup[Petshop - Mockup]
-   image:{badge}/Petshop-Mockup{badge-style}[Lines of Code]
+   image:{badge}/Petshop-Mockup?{badge-style}[Lines of Code]
 ** {github-root}/FulecoRafa/petshop-front[Petshop - Frontend]
-   image:{badge-root}/github/FulecoRafa/petshop-front[Lines of Code]
+   image:{badge-root}/github/FulecoRafa/petshop-front?{badge-style}[Lines of Code]
 ** {github-root}/FulecoRafa/petshop-back[Petshop - Back]
-   image:{badge-root}/github/FulecoRafa/petshop-back[Lines of Code]
+   image:{badge-root}/github/FulecoRafa/petshop-back?{badge-style}[Lines of Code]
 
 * Programação Orientada à Objetos
 ** {github-root}/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final[Projeto Final]
-   image:{badge-root}/github/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final[Lines of Code]
+   image:{badge-root}/github/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final?{badge-style}[Lines of Code]
 
 * Algoritmos Evolutivos
 ** {github}/Jogo-da-Velha[Jogo da Velha]
-   image:{badge}/Jogo-da-Velha{badge-style}[Lines of Code]
+   image:{badge}/Jogo-da-Velha?{badge-style}[Lines of Code]
 
 * Base de Dados
 ** {github-root}/WictorDalbosco/TrabalhoBD[Plataforma de Agregação de Cursos]
-   image:{badge-root}/github/WictorDalbosco/TrabalhoBD{badge-style}[Lines of Code]
+   image:{badge-root}/github/WictorDalbosco/TrabalhoBD?{badge-style}[Lines of Code]
 
 * Visualização Computacional
 ** {github-root}/NathanTBP/nobeldatavisualization[Nobel Visualization]
-   image:{badge-root}/github/NathanTBP/nobeldatavisualization{badge-style}[Lines of Code]
+   image:{badge-root}/github/NathanTBP/nobeldatavisualization?{badge-style}[Lines of Code]
