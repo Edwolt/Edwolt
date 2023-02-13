@@ -38,11 +38,11 @@
 
 == Ciências da Computação
 * Eletrônica para computação
-** {gitub}/Termometro-Arduino[Termometro Arduino]
+** {github}/Termometro-Arduino[Termometro Arduino]
    image:{badge}/Termometro-Arduino?{badge-style}[Lines of Code]
 
 * Introdução a Ciências da Computação
-** {gitub}/TrabalhoICC-SegmentacaoDeImagem[Segmentação de Imagem]
+** {github}/TrabalhoICC-SegmentacaoDeImagem[Segmentação de Imagem]
    image:{badge}/TrabalhoICC-SegmentacaoDeImagem?{badge-style}[Lines of Code]
 
 * Organização de Computadores
@@ -70,7 +70,7 @@
    image:{badge}/Jogo-da-Velha{badge-style}[Lines of Code]
 
 * Base de Dados
-** [Plataforma de Agregação de Cursos](https://github.com/WictorDalbosco/TrabalhoBD)
+** {github-root}/WictorDalbosco/TrabalhoBD[Plataforma de Agregação de Cursos]
    image:{badge-root}/github/WictorDalbosco/TrabalhoBD{badge-style}[Lines of Code]
 
 * Visualização Computacional
