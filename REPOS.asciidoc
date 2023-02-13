@@ -36,6 +36,10 @@
 * {github}/TinyRenderer[Tiny Renderer]
   image:{badge}/TinyRenderer?{badge-style}[Lines of Code]
 
+== Projetos
+* {github}/FieldViz[Vector Field Visualization]
+  image:{badge}/FieldViz?{badge-style}
+
 == Ciências da Computação
 * Eletrônica para computação
 ** {github}/Termometro-Arduino[Termometro Arduino]
