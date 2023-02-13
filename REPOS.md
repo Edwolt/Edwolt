@@ -1,5 +1,6 @@
 # Antigos
 - [Jogo de Tabuleiro](https://github.com/Edwolt/Jogo-de-Tabuleiro)
+![Lines of code](https://img.shields.io/tokei/lines/github/edwolt/123?style=flat-square)
 - [Jogo de Tabuleiro 2](https://github.com/Edwolt/Jogo-de-Tabuleiro-2)
 - [RPG](https://github.com/Edwolt/RPG)
 
