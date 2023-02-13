@@ -1,52 +1,78 @@
-:github: https://github.com/Edwolt
-:badge: https://img.shields.io/tokei/lines/github/Edwolt
+:github-root: https://github.com
+:github: {github-root}/Edwolt
+:gitlab: https://gitlab.com/Edwolt
+:gist: https://gist.github.com/Edwolt
+
+:badge-root: https://img.shields.io/tokei/lines
+:badge: {badge-root}/github/Edwolt
+:badge-gitlab: {badge-root}/gitlab/Edwolt
+:badge-gist: {badge-root}/gist.github/Edwolt
 :badge-style: style=flat-square
 
 == Antigos
 * {github}/Jogo-de-Tabuleiro[Jogo de Tabuleiro]
-  image:{badge}/Jogo-de-Tabuleiro?{badge-style}
+  image:{badge}/Jogo-de-Tabuleiro?{badge-style}[Lines of Code]
 * {github}/Jogo-de-Tabuleiro-2[Jogo de Tabuleiro 2]
-  image:{badge}/Jogo-de-Tabuleiro-2?{badge-style}
+  image:{badge}/Jogo-de-Tabuleiro-2?{badge-style}[Lines of Code]
 * {github}/RPG[RPG]
-  image:{badge}/RPG?{badge-style}
+  image:{badge}/RPG?{badge-style}[Lines of Code]
 // Truco
 
 == Gists
-* [Obscure Hello World!](https://gist.github.com/Edwolt/7b74c332715207c876628dd9a5e6e997)
-* [X1B](https://gist.github.com/Edwolt/95d32eb40e79f4f73a6a4a102753292a): Terminal Color
+* {gist}/7b74c332715207c876628dd9a5e6e997[Obscure Hello World!]
+  image:{badge-gist}/7b74c332715207c876628dd9a5e6e997?{badge-style}[Lines of Code]
+* {gist}/95d32eb40e79f4f73a6a4a102753292a[X1B]: Terminal Color
+  image:{badge-gist}/95d32eb40e79f4f73a6a4a102753292a?{badge-style}[Lines of Code]
 
 == Para Game Jaaj
-* [Boucing Ball](https://github.com/Edwolt/BoucingBall)
-* [Jogo da Arminha](https://github.com/Edwolt/JogoDaArminha)
+* {github}/BoucingBall[Boucing Ball]
+  image:{badge}/BoucingBall?{badge-style}[Lines of Code]
+* {github}/JogoDaArminha[Jogo da Arminha]
+  image:{badge}/JogoDaArminha?{badge-style}[Lines of Code]
 
 == Estudos
-* [Estudos](https://gitlab.com/Edwolt/Estudos)
-* [Tiny Render](https://github.com/Edwolt/TinyRenderer)
+* {gitlab}/Estudos[Estudos]
+  image:{badge-gitlab}/Estudos?{badge-style}[Lines of Code]
+* {github}TinyRenderer[Tiny Renderer]
+  image:{badge}/TinyRenderer?{badge-style}[Lines of Code]
 
 == Ciências da Computação
 * Eletrônica para computação
-** [Termometro Arduino](https://github.com/Edwolt/Termometro-Arduino)
+** {gitub}/Termometro-Arduino[Termometro Arduino]
+   image:{badge}/Termometro-Arduino?{badge-style}[Lines of Code]
+
 * Introdução a Ciências da Computação
-** [Segmentação de Imagem](https://github.com/Edwolt/TrabalhoICC-SegmentacaoDeImagem)
+** {gitub}/TrabalhoICC-SegmentacaoDeImagem[Segmentação de Imagem]
+   image:{badge}/TrabalhoICC-SegmentacaoDeImagem?{badge-style}[Lines of Code]
 
 * Organização de Computadores
-** [MIPS Calculadora](https://github.com/Edwolt/MIPS-Calculadora)
-** [Simulador do Processador ICMC implementado no próprio Simulador ICMC](https://github.com/Edwolt/PICMC-Simul)
-** [Processador MASM (My Assembly)](https://github.com/Edwolt/Processador-MASM)
+** {github}/MIPS-Calculadora[MIPS Calculadora]
+   image:{badge}/MIPS-Calculadora?{badge-style}[Lines of Code]
+** {github}PICMC-Simul[Simulador do Processador ICMC implementado no próprio Simulador ICMC]
+   image:{badge}/PICMC-Simul?{badge-style}[Lines of Code]
+** {github}/Processador-MASM[Processador MASM (My Assembly)]
+   image:{badge}/Processador-MASM?{badge-style}[Lines of Code]
 * Organização de Arquivos
-** [Trabalho de Organização de Arquivos](https://github.com/Edwolt/OrganizacaoDeArquivos-Trabalho)
+** {github}OrganizacaoDeArquivos-Trabalho[Trabalho de Organização de Arquivos]
 * Desenvolvimento Web
-** [Petshop - Mockup](https://github.com/Edwolt/Petshop-Mockup)
-** [Petshop - Frontend](https://github.com/FulecoRafa/petshop-front)
-** [Petshop - Back](https://github.com/FulecoRafa/petshop-back)
+** {github}Petshop-Mockup[Petshop - Mockup]
+   image:{badge}/Petshop-Mockup{badge-style}[Lines of Code]
+** {github-root}/FulecoRafa/petshop-front[Petshop - Frontend]
+   image:{badge-root}/github/FulecoRafa/petshop-front[Lines of Code]
+** {github-root}/FulecoRafa/petshop-back[Petshop - Back]
+   image:{badge-root}/github/FulecoRafa/petshop-back[Lines of Code]
 * Programação Orientada à Objetos
-** [Projeto Final](https://github.com/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final)
+** {github-root}/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final[Projeto Final]
+   image:{badge-root}/github/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final[Lines of Code]
 
 * Algoritmos Evolutivos
-** [Jogo da Velha](https://github.com/Edwolt/Jogo-da-Velha)
+** {github}/Jogo-da-Velha[Jogo da Velha]
+   image:{badge}/Jogo-da-Velha{badge-style}[Lines of Code]
 
 * Base de Dados
 ** [Plataforma de Agregação de Cursos](https://github.com/WictorDalbosco/TrabalhoBD)
+   image:{badge-root}/github/WictorDalbosco/TrabalhoBD{badge-style}[Lines of Code]
 
 * Visualização Computacional
-** [Nobel Visualization](https://github.com/NathanTBP/nobeldatavisualization)
+** {github-root}/NathanTBP/nobeldatavisualization[Nobel Visualization]
+   image:{badge-root}/github/NathanTBP/nobeldatavisualization{badge-style}[Lines of Code]
