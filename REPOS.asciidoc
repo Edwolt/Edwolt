@@ -48,7 +48,7 @@
 * Organização de Computadores
 ** {github}/MIPS-Calculadora[MIPS Calculadora]
    image:{badge}/MIPS-Calculadora?{badge-style}[Lines of Code]
-** {github}PICMC-Simul[Simulador do Processador ICMC implementado no próprio Simulador ICMC]
+** {github}/PICMC-Simul[Simulador do Processador ICMC implementado no próprio Simulador ICMC]
    image:{badge}/PICMC-Simul?{badge-style}[Lines of Code]
 ** {github}/Processador-MASM[Processador MASM (My Assembly)]
    image:{badge}/Processador-MASM?{badge-style}[Lines of Code]
