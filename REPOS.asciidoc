@@ -38,7 +38,7 @@
 
 == Projetos
 * {github}/FieldViz[Vector Field Visualization]
-  image:{badge}/FieldViz?{badge-style}
+  image:{badge}/FieldViz?{badge-style}[Lines of Code]
 
 == Ciências da Computação
 * Eletrônica para computação
