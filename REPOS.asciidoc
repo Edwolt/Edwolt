@@ -9,53 +9,55 @@
 :badge-gist: {badge-root}/gist.github/Edwolt
 :badge-style: style=flat-square
 
+:desc: [ - ]
+
 == Antigos
 * {github}/Jogo-de-Tabuleiro[Jogo de Tabuleiro]
-  image:{badge}/Jogo-de-Tabuleiro?{badge-style}[ ]
+  image:{badge}/Jogo-de-Tabuleiro?{badge-style}{desc}
 * {github}/Jogo-de-Tabuleiro-2[Jogo de Tabuleiro 2]
-  image:{badge}/Jogo-de-Tabuleiro-2?{badge-style}[ ]
+  image:{badge}/Jogo-de-Tabuleiro-2?{badge-style}{desc}
 * {github}/RPG[RPG]
-  image:{badge}/RPG?{badge-style}[ ]
+  image:{badge}/RPG?{badge-style}{desc}
 // Truco
 
 == Gists
 * {gist}/7b74c332715207c876628dd9a5e6e997[Obscure Hello World!]
-//image:{badge-gist}/7b74c332715207c876628dd9a5e6e997?{badge-style}[ ]
+//image:{badge-gist}/7b74c332715207c876628dd9a5e6e997?{badge-style}[ - ]
 * {gist}/95d32eb40e79f4f73a6a4a102753292a[X1B]: Terminal Color
-//image:{badge-gist}/95d32eb40e79f4f73a6a4a102753292a?{badge-style}[ ]
+//image:{badge-gist}/95d32eb40e79f4f73a6a4a102753292a?{badge-style}[ - ]
 
 == Para Game Jaaj
 * {github}/BoucingBall[Boucing Ball]
-  image:{badge}/BoucingBall?{badge-style}[ ]
+  image:{badge}/BoucingBall?{badge-style}[ - ]
 * {github}/JogoDaArminha[Jogo da Arminha]
-  image:{badge}/JogoDaArminha?{badge-style}[ ]
+  image:{badge}/JogoDaArminha?{badge-style}[ - ]
 
 == Estudos
 * {gitlab}/Estudos[Estudos]
-  image:{badge-gitlab}/Estudos?{badge-style}[ ]
+  image:{badge-gitlab}/Estudos?{badge-style}[ - ]
 * {github}/TinyRenderer[Tiny Renderer]
-  image:{badge}/TinyRenderer?{badge-style}[ ]
+  image:{badge}/TinyRenderer?{badge-style}[ - ]
 
 == Projetos
 * {github}/FieldViz[Vector Field Visualization]
-  image:{badge}/FieldViz?{badge-style}[ ]
+  image:{badge}/FieldViz?{badge-style}[ - ]
 
 == Ciências da Computação
 * Eletrônica para computação
 ** {github}/Termometro-Arduino[Termometro Arduino]
-   image:{badge}/Termometro-Arduino?{badge-style}[ ]
+   image:{badge}/Termometro-Arduino?{badge-style}[ - ]
 
 * Introdução a Ciências da Computação
 ** {github}/TrabalhoICC-SegmentacaoDeImagem[Segmentação de Imagem]
-   image:{badge}/TrabalhoICC-SegmentacaoDeImagem?{badge-style}[ ]
+   image:{badge}/TrabalhoICC-SegmentacaoDeImagem?{badge-style}[ - ]
 
 * Organização de Computadores
 ** {github}/MIPS-Calculadora[MIPS Calculadora]
-   image:{badge}/MIPS-Calculadora?{badge-style}[ ]
+   image:{badge}/MIPS-Calculadora?{badge-style}[ - ]
 ** {github}/PICMC-Simul[Simulador do Processador ICMC implementado no próprio Simulador ICMC]
-   image:{badge}/PICMC-Simul?{badge-style}[ ]
+   image:{badge}/PICMC-Simul?{badge-style}[ - ]
 ** {github}/Processador-MASM[Processador MASM (My Assembly)]
-   image:{badge}/Processador-MASM?{badge-style}[ ]
+   image:{badge}/Processador-MASM?{badge-style}[ - ]
 
 * Organização de Arquivos
 ** {github}/OrganizacaoDeArquivos-Trabalho[Trabalho de Organização de Arquivos]
