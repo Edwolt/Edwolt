@@ -21,10 +21,10 @@
 === Antigos
 * {github}/Jogo-de-Tabuleiro[Jogo de Tabuleiro]
   image:{loc}/Jogo-de-Tabuleiro?{badge-style}{desc}
-  image:{commit}/Jogo-da-Tabuleiro?{badge-style}{desc}
+  image:{commit}/Jogo-de-Tabuleiro?{badge-style}{desc}
 * {github}/Jogo-de-Tabuleiro-2[Jogo de Tabuleiro 2]
   image:{loc}/Jogo-de-Tabuleiro-2?{badge-style}{desc}
-  image:{commit}/Jogo-da-Tabuleiro-2?{badge-style}{desc}
+  image:{commit}/Jogo-de-Tabuleiro-2?{badge-style}{desc}
 * {github}/RPG[RPG]
   image:{loc}/RPG?{badge-style}{desc}
   image:{commit}/RPG?{badge-style}{desc}
@@ -54,7 +54,7 @@
 == Estudos
 * {gitlab}/Estudos[Estudos]
   image:{loc-gitlab}/Estudos?{badge-style}{desc}
-  image:{commit-gitlab}/TinyRenderer?{badge-style}{desc}
+  image:{commit-gitlab}/Estudos?{badge-style}{desc}
 * {github}/TinyRenderer[Tiny Renderer]
   image:{loc}/TinyRenderer?{badge-style}{desc}
   image:{commit}/TinyRenderer?{badge-style}{desc}
