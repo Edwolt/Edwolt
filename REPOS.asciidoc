@@ -3,86 +3,117 @@
 :gitlab: https://gitlab.com/Edwolt
 :gist: https://gist.github.com/Edwolt
 
-:badge-root: https://img.shields.io/tokei/lines
-:badge: {badge-root}/github/Edwolt
-:badge-gitlab: {badge-root}/gitlab/Edwolt
-:badge-gist: {badge-root}/gist.github.com/Edwolt
+:loc-root: https://img.shields.io/tokei/lines
+:loc: {loc-root}/github/Edwolt
+:loc-gitlab: {loc-root}/gitlab/Edwolt
+:loc-gist: {loc-root}/gist.github.com/Edwolt
+
+:commit-gh: https://img.shields.io/github/last-commit
+:commit: https://img.shields.io/github/last-commit/Edwolt
+:commit-gitlab: https://img.shields.io/gitlab/last-commit/Edwolt
+:commit-gist: https://img.shields.io/github/gist/last-commit
+
 :badge-style: style=flat-square
 
 :desc: [ - ]
 
-== Antigos
+== Projetos
+=== Antigos
 * {github}/Jogo-de-Tabuleiro[Jogo de Tabuleiro]
-  image:{badge}/Jogo-de-Tabuleiro?{badge-style}{desc}
+  image:{loc}/Jogo-de-Tabuleiro?{badge-style}{desc}
+  image:{commit}/Jogo-da-Tabuleiro?{badge-style}{desc}
 * {github}/Jogo-de-Tabuleiro-2[Jogo de Tabuleiro 2]
-  image:{badge}/Jogo-de-Tabuleiro-2?{badge-style}{desc}
+  image:{loc}/Jogo-de-Tabuleiro-2?{badge-style}{desc}
+  image:{commit}/Jogo-da-Tabuleiro-2?{badge-style}{desc}
 * {github}/RPG[RPG]
-  image:{badge}/RPG?{badge-style}{desc}
+  image:{loc}/RPG?{badge-style}{desc}
+  image:{commit}/RPG?{badge-style}{desc}
 // Truco
+
+=== Novos
+* {github}/FieldViz[Vector Field Visualization]
+  image:{loc}/FieldViz?{badge-style}{desc}
+  image:{commit}/FieldViz?{badge-style}{desc}
 
 == Gists
 * {gist}/7b74c332715207c876628dd9a5e6e997[Obscure Hello World!]
-  image:{badge-gist}/7b74c332715207c876628dd9a5e6e997?{badge-style}{desc}
+  image:{loc-gist}/7b74c332715207c876628dd9a5e6e997?{badge-style}{desc}
+  image:{commit-gist}/7b74c332715207c876628dd9a5e6e997?{badge-style}{desc}
 * {gist}/95d32eb40e79f4f73a6a4a102753292a[X1B]: Terminal Color
-  image:{badge-gist}/95d32eb40e79f4f73a6a4a102753292a?{badge-style}{desc}
+  image:{loc-gist}/95d32eb40e79f4f73a6a4a102753292a?{badge-style}{desc}
+  image:{commit-gist}/95d32eb40e79f4f73a6a4a102753292a?{badge-style}{desc}
 
 == Para Game Jaaj
 * {github}/BoucingBall[Boucing Ball]
-  image:{badge}/BoucingBall?{badge-style}{desc}
+  image:{loc}/BoucingBall?{badge-style}{desc}
+  image:{commit}/BoucingBall?{badge-style}{desc}
 * {github}/JogoDaArminha[Jogo da Arminha]
-  image:{badge}/JogoDaArminha?{badge-style}{desc}
+  image:{loc}/JogoDaArminha?{badge-style}{desc}
+  image:{commit}/JogoDaArminha?{badge-style}{desc}
 
 == Estudos
 * {gitlab}/Estudos[Estudos]
-  image:{badge-gitlab}/Estudos?{badge-style}{desc}
+  image:{loc-gitlab}/Estudos?{badge-style}{desc}
+  image:{commit-gitlab}/TinyRenderer?{badge-style}{desc}
 * {github}/TinyRenderer[Tiny Renderer]
-  image:{badge}/TinyRenderer?{badge-style}{desc}
+  image:{loc}/TinyRenderer?{badge-style}{desc}
+  image:{commit}/TinyRenderer?{badge-style}{desc}
 
-== Projetos
-* {github}/FieldViz[Vector Field Visualization]
-  image:{badge}/FieldViz?{badge-style}{desc}
 
 == Ciências da Computação
 * Eletrônica para computação
 ** {github}/Termometro-Arduino[Termometro Arduino]
-   image:{badge}/Termometro-Arduino?{badge-style}{desc}
+   image:{loc}/Termometro-Arduino?{badge-style}{desc}
+   image:{commit}/Termometro-Arduino?{badge-style}{desc}
 
 * Introdução a Ciências da Computação
 ** {github}/TrabalhoICC-SegmentacaoDeImagem[Segmentação de Imagem]
-   image:{badge}/TrabalhoICC-SegmentacaoDeImagem?{badge-style}{desc}
+   image:{loc}/TrabalhoICC-SegmentacaoDeImagem?{badge-style}{desc}
+   image:{commit}/TrabalhoICC-SegmentacaoDeImagem?{badge-style}{desc}
 
 * Organização de Computadores
 ** {github}/MIPS-Calculadora[MIPS Calculadora]
-   image:{badge}/MIPS-Calculadora?{badge-style}{desc}
+   image:{loc}/MIPS-Calculadora?{badge-style}{desc}
+   image:{commit}/MIPS-Calculadora?{badge-style}{desc}
 ** {github}/PICMC-Simul[Simulador do Processador ICMC implementado no próprio Simulador ICMC]
-   image:{badge}/PICMC-Simul?{badge-style}{desc}
+   image:{loc}/PICMC-Simul?{badge-style}{desc}
+   image:{commit}/PICMC-Simul?{badge-style}{desc}
 ** {github}/Processador-MASM[Processador MASM (My Assembly)]
-   image:{badge}/Processador-MASM?{badge-style}{desc}
+   image:{loc}/Processador-MASM?{badge-style}{desc}
+   image:{commit}/Processador-MASM?{badge-style}{desc}
 
 * Organização de Arquivos
 ** {github}/OrganizacaoDeArquivos-Trabalho[Trabalho de Organização de Arquivos]
-   image:{badge}/OrganizacaoDeArquivos-Trabalho?{badge-style}{desc}
+   image:{loc}/OrganizacaoDeArquivos-Trabalho?{badge-style}{desc}
+   image:{commit}/OrganizacaoDeArquivos-Trabalho?{badge-style}{desc}
 
 * Desenvolvimento Web
 ** {github}/Petshop-Mockup[Petshop - Mockup]
-   image:{badge}/Petshop-Mockup?{badge-style}{desc}
+   image:{loc}/Petshop-Mockup?{badge-style}{desc}
+   image:{commit}/Petshop-Mockup?{badge-style}{desc}
 ** {github-root}/FulecoRafa/petshop-front[Petshop - Frontend]
-   image:{badge-root}/github/FulecoRafa/petshop-front?{badge-style}{desc}
+   image:{loc-root}/github/FulecoRafa/petshop-front?{badge-style}{desc}
+   image:{commit-gh}/FulecoRafa/petshop-front?{badge-style}{desc}
 ** {github-root}/FulecoRafa/petshop-back[Petshop - Back]
-   image:{badge-root}/github/FulecoRafa/petshop-back?{badge-style}{desc}
+   image:{loc-root}/github/FulecoRafa/petshop-back?{badge-style}{desc}
+   image:{commit-gh}/FulecoRafa/petshop-back?{badge-style}{desc}
 
 * Programação Orientada à Objetos
 ** {github-root}/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final[Projeto Final]
-   image:{badge-root}/github/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final?{badge-style}{desc}
+   image:{loc-root}/github/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final?{badge-style}{desc}
+   image:{commit-gh}/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final?{badge-style}{desc}
 
 * Algoritmos Evolutivos
 ** {github}/Jogo-da-Velha[Jogo da Velha]
-   image:{badge}/Jogo-da-Velha?{badge-style}{desc}
+   image:{loc}/Jogo-da-Velha?{badge-style}{desc}
+   image:{commit}/Jogo-da-Velha?{badge-style}{desc}
 
 * Base de Dados
 ** {github-root}/WictorDalbosco/TrabalhoBD[Plataforma de Agregação de Cursos]
-   image:{badge-root}/github/WictorDalbosco/TrabalhoBD?{badge-style}{desc}
+   image:{loc-root}/github/WictorDalbosco/TrabalhoBD?{badge-style}{desc}
+   image:{commit-gh}/WictorDalbosco/TrabalhoBD?{badge-style}{desc}
 
 * Visualização Computacional
 ** {github-root}/NathanTBP/nobeldatavisualization[Nobel Visualization]
-   image:{badge-root}/github/NathanTBP/nobeldatavisualization?{badge-style}{desc}
+   image:{loc-root}/github/NathanTBP/nobeldatavisualization?{badge-style}{desc}
+   image:{commit-gh}/NathanTBP/nobeldatavisualization?{badge-style}{desc}
