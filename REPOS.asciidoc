@@ -117,3 +117,8 @@
 ** {github-root}/NathanTBP/nobeldatavisualization[Nobel Visualization]
    image:{loc-root}/github/NathanTBP/nobeldatavisualization?{badge-style}{desc}
    image:{commit-gh}/NathanTBP/nobeldatavisualization?{badge-style}{desc}
+
+* Sistemas Operacionais
+** {github}/Sistema-de-Reserva-Aviao[Sistemas de Reserva de Avião]: Uso de Threads
+   image:{loc}/Sistema-de-Reserva-Aviao?{badge-style}{desc}
+   image:{commit}/Sistema-de-Reserva-Aviao?{badge-style}{desc}
