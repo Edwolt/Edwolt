@@ -122,3 +122,8 @@
 ** {github}/Sistema-de-Reserva-Aviao[Sistemas de Reserva de Avião]: Uso de Threads
    image:{loc}/Sistema-de-Reserva-Aviao?{badge-style}{desc}
    image:{commit}/Sistema-de-Reserva-Aviao?{badge-style}{desc}
+
+== Fellowship of The Game (FoG)
+* {github}/SpaceInvaders[SpaceInvaders] (Processo Seletivo do Fog)
+    image:{loc}/SpaceInvaders?{badge-style}{desc}
+    image:{commit}/SpaceInvaders?{badge-style}{desc}
