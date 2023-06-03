@@ -107,6 +107,7 @@
 ** {github}/Jogo-da-Velha[Jogo da Velha]
    image:{loc}/Jogo-da-Velha?{badge-style}{desc}
    image:{commit}/Jogo-da-Velha?{badge-style}{desc}
+*** Tem uma versão em Rust no repositório
 
 * Base de Dados
 ** {github-root}/WictorDalbosco/TrabalhoBD[Plataforma de Agregação de Cursos]
