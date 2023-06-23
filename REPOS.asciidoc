@@ -1,3 +1,5 @@
+// :show-images:
+
 :github-root: https://github.com
 :github: {github-root}/Edwolt
 :gitlab: https://gitlab.com/Edwolt
@@ -18,113 +20,180 @@
 :desc: [ - ]
 
 == Projetos
-=== Antigos
 * {github}/Jogo-de-Tabuleiro[Jogo de Tabuleiro]
+ifdef::show-images[]
   image:{loc}/Jogo-de-Tabuleiro?{badge-style}{desc}
   image:{commit}/Jogo-de-Tabuleiro?{badge-style}{desc}
+endif::show-images[]
+
 * {github}/Jogo-de-Tabuleiro-2[Jogo de Tabuleiro 2]
+ifdef::show-images[]
   image:{loc}/Jogo-de-Tabuleiro-2?{badge-style}{desc}
   image:{commit}/Jogo-de-Tabuleiro-2?{badge-style}{desc}
+endif::show-images[]
+
 * {github}/RPG[RPG]
+ifdef::show-images[]
   image:{loc}/RPG?{badge-style}{desc}
   image:{commit}/RPG?{badge-style}{desc}
-// Truco
+endif::show-images[]
 
-=== Novos
+// Truco
 * {github}/FieldViz[Vector Field Visualization]
+ifdef::show-images[]
   image:{loc}/FieldViz?{badge-style}{desc}
   image:{commit}/FieldViz?{badge-style}{desc}
+endif::show-images[]
 
 == Gists
 * {gist}/7b74c332715207c876628dd9a5e6e997[Obscure Hello World!]
+ifdef::show-images[]
   image:{loc-gist}/7b74c332715207c876628dd9a5e6e997?{badge-style}{desc}
   image:{commit-gist}/7b74c332715207c876628dd9a5e6e997?{badge-style}{desc}
+endif::show-images[]
+
 * {gist}/95d32eb40e79f4f73a6a4a102753292a[X1B]: Terminal Color
+ifdef::show-images[]
   image:{loc-gist}/95d32eb40e79f4f73a6a4a102753292a?{badge-style}{desc}
   image:{commit-gist}/95d32eb40e79f4f73a6a4a102753292a?{badge-style}{desc}
+endif::show-images[]
 
 == Para Game Jaaj
 * {github}/BoucingBall[Boucing Ball]
+ifdef::show-images[]
   image:{loc}/BoucingBall?{badge-style}{desc}
   image:{commit}/BoucingBall?{badge-style}{desc}
+endif::show-images[]
+
 * {github}/JogoDaArminha[Jogo da Arminha]
+ifdef::show-images[]
   image:{loc}/JogoDaArminha?{badge-style}{desc}
   image:{commit}/JogoDaArminha?{badge-style}{desc}
+endif::show-images[]
 
 == Estudos
 * {gitlab}/Estudos[Estudos]
+ifdef::show-images[]
   image:{loc-gitlab}/Estudos?{badge-style}{desc}
   image:{commit-gitlab}/Estudos?{badge-style}{desc}
+endif::show-images[]
+
 * {github}/TinyRenderer[Tiny Renderer]
+ifdef::show-images[]
   image:{loc}/TinyRenderer?{badge-style}{desc}
   image:{commit}/TinyRenderer?{badge-style}{desc}
-
+endif::show-images[]
 
 == Ciências da Computação
+//
 * Eletrônica para computação
 ** {github}/Termometro-Arduino[Termometro Arduino]
+ifdef::show-images[]
    image:{loc}/Termometro-Arduino?{badge-style}{desc}
    image:{commit}/Termometro-Arduino?{badge-style}{desc}
+endif::show-images[]
 
+//
 * Introdução a Ciências da Computação
 ** {github}/TrabalhoICC-SegmentacaoDeImagem[Segmentação de Imagem]
+ifdef::show-images[]
    image:{loc}/TrabalhoICC-SegmentacaoDeImagem?{badge-style}{desc}
    image:{commit}/TrabalhoICC-SegmentacaoDeImagem?{badge-style}{desc}
+endif::show-images[]
 
+//
 * Organização de Computadores
 ** {github}/MIPS-Calculadora[MIPS Calculadora]
+ifdef::show-images[]
    image:{loc}/MIPS-Calculadora?{badge-style}{desc}
    image:{commit}/MIPS-Calculadora?{badge-style}{desc}
+endif::show-images[]
+
 ** {github}/PICMC-Simul[Simulador do Processador ICMC implementado no próprio Simulador ICMC]
+ifdef::show-images[]
    image:{loc}/PICMC-Simul?{badge-style}{desc}
    image:{commit}/PICMC-Simul?{badge-style}{desc}
+endif::show-images[]
+
 ** {github}/Processador-MASM[Processador MASM (My Assembly)]
+ifdef::show-images[]
    image:{loc}/Processador-MASM?{badge-style}{desc}
    image:{commit}/Processador-MASM?{badge-style}{desc}
+endif::show-images[]
 
+//
 * Organização de Arquivos
 ** {github}/OrganizacaoDeArquivos-Trabalho[Trabalho de Organização de Arquivos]
+ifdef::show-images[]
    image:{loc}/OrganizacaoDeArquivos-Trabalho?{badge-style}{desc}
    image:{commit}/OrganizacaoDeArquivos-Trabalho?{badge-style}{desc}
+endif::show-images[]
 
+//
 * Desenvolvimento Web
 ** {github}/Petshop-Mockup[Petshop - Mockup]
+ifdef::show-images[]
    image:{loc}/Petshop-Mockup?{badge-style}{desc}
    image:{commit}/Petshop-Mockup?{badge-style}{desc}
+endif::show-images[]
+
 ** {github-root}/FulecoRafa/petshop-front[Petshop - Frontend]
+ifdef::show-images[]
    image:{loc-root}/github/FulecoRafa/petshop-front?{badge-style}{desc}
    image:{commit-gh}/FulecoRafa/petshop-front?{badge-style}{desc}
+endif::show-images[]
+
 ** {github-root}/FulecoRafa/petshop-back[Petshop - Back]
+ifdef::show-images[]
    image:{loc-root}/github/FulecoRafa/petshop-back?{badge-style}{desc}
    image:{commit-gh}/FulecoRafa/petshop-back?{badge-style}{desc}
+endif::show-images[]
 
+//
 * Programação Orientada à Objetos
 ** {github-root}/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final[Projeto Final]
+ifdef::show-images[]
    image:{loc-root}/github/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final?{badge-style}{desc}
    image:{commit-gh}/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final?{badge-style}{desc}
+endif::show-images[]
 
+//
 * Algoritmos Evolutivos
 ** {github}/Jogo-da-Velha[Jogo da Velha]
+ifdef::show-images[]
    image:{loc}/Jogo-da-Velha?{badge-style}{desc}
    image:{commit}/Jogo-da-Velha?{badge-style}{desc}
+endif::show-images[]
 *** Tem uma versão em Rust no repositório
 
 * Base de Dados
 ** {github-root}/WictorDalbosco/TrabalhoBD[Plataforma de Agregação de Cursos]
+ifdef::show-images[]
    image:{loc-root}/github/WictorDalbosco/TrabalhoBD?{badge-style}{desc}
    image:{commit-gh}/WictorDalbosco/TrabalhoBD?{badge-style}{desc}
+endif::show-images[]
 
 * Visualização Computacional
 ** {github-root}/NathanTBP/nobeldatavisualization[Nobel Visualization]
+ifdef::show-images[]
    image:{loc-root}/github/NathanTBP/nobeldatavisualization?{badge-style}{desc}
    image:{commit-gh}/NathanTBP/nobeldatavisualization?{badge-style}{desc}
+endif::show-images[]
 
 * Sistemas Operacionais
 ** {github}/Sistema-de-Reserva-Aviao[Sistemas de Reserva de Avião]: Uso de Threads
+ifdef::show-images[]
    image:{loc}/Sistema-de-Reserva-Aviao?{badge-style}{desc}
    image:{commit}/Sistema-de-Reserva-Aviao?{badge-style}{desc}
+endif::show-images[]
 
 == Fellowship of The Game (FoG)
 * {github}/SpaceInvaders[SpaceInvaders] (Processo Seletivo do Fog)
+ifdef::show-images[]
     image:{loc}/SpaceInvaders?{badge-style}{desc}
     image:{commit}/SpaceInvaders?{badge-style}{desc}
+endif::show-images[]
+
+// == Privados
+// * DotFiles
+// Yahtzee
