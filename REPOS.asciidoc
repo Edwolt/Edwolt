@@ -20,13 +20,14 @@
 :desc: [ - ]
 
 == Projetos
-* {github}/Jogo-de-Tabuleiro[Jogo de Tabuleiro]
+* Jogos de Xadrez:
+** {github}/Jogo-de-Tabuleiro[Jogo de Tabuleiro]
 ifdef::show-images[]
   image:{loc}/Jogo-de-Tabuleiro?{badge-style}{desc}
   image:{commit}/Jogo-de-Tabuleiro?{badge-style}{desc}
 endif::show-images[]
 
-* {github}/Jogo-de-Tabuleiro-2[Jogo de Tabuleiro 2]
+** {github}/Jogo-de-Tabuleiro-2[Jogo de Tabuleiro 2]
 ifdef::show-images[]
   image:{loc}/Jogo-de-Tabuleiro-2?{badge-style}{desc}
   image:{commit}/Jogo-de-Tabuleiro-2?{badge-style}{desc}
