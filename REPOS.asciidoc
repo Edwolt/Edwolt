@@ -19,7 +19,7 @@
 
 :desc: [ - ]
 
-== Projetos
+= Projetos
 
 * {github}/FieldViz[Vector Field Visualization]
 ifdef::show-badges[]
@@ -27,7 +27,7 @@ ifdef::show-badges[]
   image:{commit}/FieldViz?{badge-style}{desc}
 endif::show-badges[]
 
-== Jogos
+= Jogos
 * {github}/RPG[RPG]
 ifdef::show-badges[]
   image:{loc}/RPG?{badge-style}{desc}
@@ -69,7 +69,7 @@ ifdef::show-badges[]
   image:{commit}/JogoDaArminha?{badge-style}{desc}
 endif::show-badges[]
 
-== Gists
+= Gists
 * {gist}/7b74c332715207c876628dd9a5e6e997[Obscure Hello World!]
 ifdef::show-badges[]
   image:{loc-gist}/7b74c332715207c876628dd9a5e6e997?{badge-style}{desc}
@@ -83,7 +83,7 @@ ifdef::show-badges[]
 endif::show-badges[]
 
 
-== Estudos
+= Estudos
 * {gitlab}/Estudos[Estudos]
 ifdef::show-badges[]
   image:{loc-gitlab}/Estudos?{badge-style}{desc}
@@ -96,7 +96,7 @@ ifdef::show-badges[]
   image:{commit}/TinyRenderer?{badge-style}{desc}
 endif::show-badges[]
 
-== Ciências da Computação
+= Ciências da Computação
 === Eletrônica para computação
 * {github}/Termometro-Arduino[Termometro Arduino]
 ifdef::show-badges[]
@@ -193,7 +193,7 @@ ifdef::show-badges[]
 endif::show-badges[]
 
 
-== Privados
+= Privados
 * {github}/DotFiles[DotFiles]
 ifdef::show-badges[]
 endif::show-badges[]
