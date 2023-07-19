@@ -97,103 +97,96 @@ ifdef::show-badges[]
 endif::show-badges[]
 
 == Ciências da Computação
-//
-* Eletrônica para computação
-** {github}/Termometro-Arduino[Termometro Arduino]
+=== Eletrônica para computação
+* {github}/Termometro-Arduino[Termometro Arduino]
 ifdef::show-badges[]
    image:{loc}/Termometro-Arduino?{badge-style}{desc}
    image:{commit}/Termometro-Arduino?{badge-style}{desc}
 endif::show-badges[]
 
-//
-* Introdução a Ciências da Computação
-** {github}/TrabalhoICC-SegmentacaoDeImagem[Segmentação de Imagem]
+=== Introdução a Ciências da Computação
+* {github}/TrabalhoICC-SegmentacaoDeImagem[Segmentação de Imagem]
 ifdef::show-badges[]
    image:{loc}/TrabalhoICC-SegmentacaoDeImagem?{badge-style}{desc}
    image:{commit}/TrabalhoICC-SegmentacaoDeImagem?{badge-style}{desc}
 endif::show-badges[]
 
-//
-* Organização de Computadores
-** {github}/MIPS-Calculadora[MIPS Calculadora]
+=== Organização de Computadores
+* {github}/MIPS-Calculadora[MIPS Calculadora]
 ifdef::show-badges[]
    image:{loc}/MIPS-Calculadora?{badge-style}{desc}
    image:{commit}/MIPS-Calculadora?{badge-style}{desc}
 endif::show-badges[]
 
-** {github}/PICMC-Simul[Simulador do Processador ICMC implementado no próprio Simulador ICMC]
+* {github}/PICMC-Simul[Simulador do Processador ICMC implementado no próprio Simulador ICMC]
 ifdef::show-badges[]
    image:{loc}/PICMC-Simul?{badge-style}{desc}
    image:{commit}/PICMC-Simul?{badge-style}{desc}
 endif::show-badges[]
 
-** {github}/Processador-MASM[Processador MASM (My Assembly)]
+* {github}/Processador-MASM[Processador MASM (My Assembly)]
 ifdef::show-badges[]
    image:{loc}/Processador-MASM?{badge-style}{desc}
    image:{commit}/Processador-MASM?{badge-style}{desc}
 endif::show-badges[]
 
-//
-* Organização de Arquivos
-** {github}/OrganizacaoDeArquivos-Trabalho[Trabalho de Organização de Arquivos]
+=== Organização de Arquivos
+* {github}/OrganizacaoDeArquivos-Trabalho[Trabalho de Organização de Arquivos]
 ifdef::show-badges[]
    image:{loc}/OrganizacaoDeArquivos-Trabalho?{badge-style}{desc}
    image:{commit}/OrganizacaoDeArquivos-Trabalho?{badge-style}{desc}
 endif::show-badges[]
 
-//
-* Desenvolvimento Web
-** {github}/Petshop-Mockup[Petshop - Mockup]
+=== Desenvolvimento Web
+* {github}/Petshop-Mockup[Petshop - Mockup]
 ifdef::show-badges[]
    image:{loc}/Petshop-Mockup?{badge-style}{desc}
    image:{commit}/Petshop-Mockup?{badge-style}{desc}
 endif::show-badges[]
 
-** {github-root}/FulecoRafa/petshop-front[Petshop - Frontend]
+* {github-root}/FulecoRafa/petshop-front[Petshop - Frontend]
 ifdef::show-badges[]
    image:{loc-root}/github/FulecoRafa/petshop-front?{badge-style}{desc}
    image:{commit-gh}/FulecoRafa/petshop-front?{badge-style}{desc}
 endif::show-badges[]
 
-** {github-root}/FulecoRafa/petshop-back[Petshop - Back]
+* {github-root}/FulecoRafa/petshop-back[Petshop - Back]
 ifdef::show-badges[]
    image:{loc-root}/github/FulecoRafa/petshop-back?{badge-style}{desc}
    image:{commit-gh}/FulecoRafa/petshop-back?{badge-style}{desc}
 endif::show-badges[]
 
-//
-* Programação Orientada à Objetos
-** {github-root}/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final[Projeto Final]
+=== Programação Orientada à Objetos
+* {github-root}/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final[Projeto Final]
 ifdef::show-badges[]
    image:{loc-root}/github/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final?{badge-style}{desc}
    image:{commit-gh}/lucasyamamoto/SSC0103-Programacao-Orientada-a-Objetos-Projeto-Final?{badge-style}{desc}
 endif::show-badges[]
 
-//
-* Algoritmos Evolutivos
-** {github}/Jogo-da-Velha[Jogo da Velha]
+=== Algoritmos Evolutivos
+* {github}/Jogo-da-Velha[Jogo da Velha]
 ifdef::show-badges[]
    image:{loc}/Jogo-da-Velha?{badge-style}{desc}
    image:{commit}/Jogo-da-Velha?{badge-style}{desc}
 endif::show-badges[]
-*** Tem uma versão em Rust no repositório
+** Obs: Tem uma versão em Rust no repositório
 
-* Base de Dados
-** {github-root}/WictorDalbosco/TrabalhoBD[Plataforma de Agregação de Cursos]
+=== Base de Dados
+* {github-root}/WictorDalbosco/TrabalhoBD[Plataforma de Agregação de Cursos]
 ifdef::show-badges[]
    image:{loc-root}/github/WictorDalbosco/TrabalhoBD?{badge-style}{desc}
    image:{commit-gh}/WictorDalbosco/TrabalhoBD?{badge-style}{desc}
 endif::show-badges[]
 
-* Visualização Computacional
-** {github-root}/NathanTBP/nobeldatavisualization[Nobel Visualization]
+=== Visualização Computacional
+* {github-root}/NathanTBP/nobeldatavisualization[Nobel Visualization]
 ifdef::show-badges[]
    image:{loc-root}/github/NathanTBP/nobeldatavisualization?{badge-style}{desc}
    image:{commit-gh}/NathanTBP/nobeldatavisualization?{badge-style}{desc}
 endif::show-badges[]
 
-* Sistemas Operacionais
-** {github}/Sistema-de-Reserva-Aviao[Sistemas de Reserva de Avião]: Uso de Threads
+=== Sistemas Operacionais
+* {github}/Sistema-de-Reserva-Aviao[Sistemas de Reserva de Avião]: Uso de Threads
 ifdef::show-badges[]
    image:{loc}/Sistema-de-Reserva-Aviao?{badge-style}{desc}
    image:{commit}/Sistema-de-Reserva-Aviao?{badge-style}{desc}
