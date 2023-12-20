@@ -192,6 +192,13 @@ ifdef::show-badges[]
    image:{commit}/Sistema-de-Reserva-Aviao?{badge-style}{desc}
 endif::show-badges[]
 
+=== Álgebra Linear
+* {github}/TinyRenderer-PythonNotebook[Tiny Renderer - Python]
+ifdef::show-badges[]
+  image:{loc}/TinyRenderer-PythonNotebook?{badge-style}{desc}
+  image:{commit}/TinyRenderer-PythonNotebook?{badge-style}{desc}
+endif::show-badges[]
+
 
 = Privados
 * {github}/DotFiles[DotFiles]
