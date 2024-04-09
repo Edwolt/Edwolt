@@ -56,6 +56,12 @@ ifdef::show-badges[]
     image:{commit}/SpaceInvaders?{badge-style}{desc}
 endif::show-badges[]
 
+* {github}/BodyBullet[BodyBullet] (GameJam da semana santa de 2024)
+ifdef::show-badges[]
+    image:{loc}/BodyBullet?{badge-style}{desc}
+    image:{commit}/BodyBullet?{badge-style}{desc}
+endif::show-badges[]
+
 === Para Game Jaaj
 * {github}/BoucingBall[Boucing Ball]
 ifdef::show-badges[]
