@@ -88,6 +88,12 @@ ifdef::show-badges[]
   image:{commit-gist}/95d32eb40e79f4f73a6a4a102753292a?{badge-style}{desc}
 endif::show-badges[]
 
+= Scripts
+* {github}/Webcomic-Template[Webcomic Template]
+ifdef::show-badges[]
+  image:{loc}/BoucingBall?{badge-style}{desc}
+  image:{commit}/BoucingBall?{badge-style}{desc}
+endif::show-badges[]
 
 = Estudos
 * {gitlab}/Estudos[Estudos]
