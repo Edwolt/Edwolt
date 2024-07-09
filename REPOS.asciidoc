@@ -217,4 +217,10 @@ endif::show-badges[]
 ifdef::show-badges[]
 endif::show-badges[]
 
+* {github}/Lang[Lang]
+ifdef::show-badges[]
+  image:{loc}/Lang?{badge-style}{desc}
+  image:{commit}/Lang?{badge-style}{desc}
+endif::show-badges[]
+
 // * Yahtzee
